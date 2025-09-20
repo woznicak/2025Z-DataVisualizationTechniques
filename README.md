@@ -22,7 +22,7 @@ Techniki Wizualizacji Danych składają się z:
   </tr></thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">08.10, 03.10, 08.10</td>
+    <td class="tg-c3ow">08.10, 02.10, 03.10</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
     <td class="tg-c3ow">R: wstęp, proton +GitHub</td>
