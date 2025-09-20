@@ -1,10 +1,10 @@
-### Techniki Wizualizacji Danych
+## Techniki Wizualizacji Danych
 
 Semestr zimowy 2025/26 [@kozaka93](https://github.com/kozaka93) 
 
 Materiały z zajęć *Techniki Wizualizacji Danych* prowadzonych na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej.
 
-Wstęp do eksploracji danych składa się z:
+Techniki Wizualizacji Danych składają się z:
 
 -   wykładu
 -   zajęć laboratoryjnych
