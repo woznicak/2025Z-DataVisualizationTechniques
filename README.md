@@ -1,6 +1,6 @@
 ## Techniki Wizualizacji Danych
 
-Semestr zimowy 2025/26 [@kozaka93](https://github.com/kozaka93) 
+Semestr zimowy 2025/26 [@kozaka93](https://github.com/kozaka93) [@antonichudy](https://github.com/antonichudy) [@danielewskai](https://github.com/danielewskai) [@DawidPludowski](https://github.com/DawidPludowski) [@woznicak](https://github.com/woznicak)
 
 Materiały z zajęć *Techniki Wizualizacji Danych* prowadzonych na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej.
 
