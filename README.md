@@ -25,7 +25,7 @@ Techniki Wizualizacji Danych składają się z:
     <td class="tg-c3ow">08.10, 02.10, 03.10</td>
     <td class="tg-c3ow">2</td>
     <td class="tg-c3ow">lab</td>
-    <td class="tg-c3ow">R: wstęp, proton +GitHub</td>
+    <td class="tg-c3ow"><a href="https://github.com/kozaka93/2025Z-DataVisualizationTechniques/tree/main/labs/lab01">R: wstęp, proton + GitHub</a></td>
     <td class="tg-c3ow"></td>
   </tr>
   <tr>
