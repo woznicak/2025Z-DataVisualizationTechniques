@@ -17,3 +17,4 @@ tab <- table(logs[logs$login =="slap",c("host")])
 sort(tab)
 proton(action ="server", host="194.29.178.16")
 split_bash_history
+
