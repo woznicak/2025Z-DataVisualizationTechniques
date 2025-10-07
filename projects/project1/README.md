@@ -1,4 +1,5 @@
-# P1: 
+# P1: Atlas Wizualny Polski
+
 ### Opis projektu
 
 Pierwszy projekt poświęcony jest eksploracji danych dotyczących Polski. Jego celem jest przygotowanie plakatu w formacie A2 (+ .pdf), który przedstawi graficznie ciekawe informacje.
