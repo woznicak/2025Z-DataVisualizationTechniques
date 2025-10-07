@@ -1,5 +1,4 @@
-# P1: Cyfrowy Portret Polski
-
+# P1: 
 ### Opis projektu
 
 Pierwszy projekt poświęcony jest eksploracji danych dotyczących Polski. Jego celem jest przygotowanie plakatu w formacie A2 (+ .pdf), który przedstawi graficznie ciekawe informacje.
